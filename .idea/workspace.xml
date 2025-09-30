@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f711840f-ceaf-43fe-be13-f4011542cfe3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject/cap 5/exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/cap 5/exercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject/cap 5/exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/cap 5/exercicio2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.exemplo1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo1operadoresaritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplo2valoresetipos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio5.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/escola/Documentos/python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.exemplo1.executor": "Run",
+    "Python.exemplo1operadoresaritmeticos.executor": "Run",
+    "Python.exemplo2valoresetipos.executor": "Run",
+    "Python.exercicio 1.executor": "Run",
+    "Python.exercicio1.executor": "Run",
+    "Python.exercicio2.executor": "Run",
+    "Python.exercicio3.executor": "Run",
+    "Python.exercicio4.executor": "Run",
+    "Python.exercicio5.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/escola/Documentos/python"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
